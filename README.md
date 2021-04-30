@@ -19,7 +19,7 @@ After installing this application, connect to your database by setting up and .e
 
 ## Acknowledgments 
 :trophy:
-Starter code was cloned from Xander Rapstine. You can visit his github [here](https://github.com/Xandromus). 
+Starter code was cloned from Xander Rapstine. You can visit his github [here.](https://github.com/Xandromus). 
 
 ## License-Information 
   * The MIT License
